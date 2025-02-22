@@ -4,9 +4,9 @@ import { useNavigate } from 'react-router-dom';
 import { Heart, Sparkles } from 'lucide-react';
 
 const messages = [
-  "Hii Preety woman",
+  "Hii Preety",
   "I know its IND vs PAK today acha bday bhi to h. Yeyey!",
-  "i can understand celebrating bday without friends is nt good but i assure you to make it unique experience",
+  "i can understand celebrating bday without friends , not having a celebration sucks. but i assure you to make it unique experience",
   "Do you wanna see what I made??"
 ];
 
