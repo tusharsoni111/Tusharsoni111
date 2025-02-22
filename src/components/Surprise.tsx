@@ -17,7 +17,7 @@ const Surprise = () => {
     "Decoration",
     "Fly the Balloons",
     "Let's Cut the Cake preety",
-    "Well, I Have a Message for You Preety"
+    " OOPS you already did without me ): Well, I Have a Message for You Preety"
   ];
 
   const handleClick = () => {
