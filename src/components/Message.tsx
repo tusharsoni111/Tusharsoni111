@@ -18,7 +18,7 @@ const Message = () => {
           is my kindness to show you how much i value people who are close to me. 
           And i regret not being there today as things are nt in favour of me these days. 
           i might not have a better gift to give but i can assure even if i wont be there in your better days
-          i ll be just one call away in your worst phase. dont hesistate even if we re not talking or part aways.
+          i ll be just one call away in your worst phase , dont hesistate even if we re not talking or part aways. i am a man of my words wont turn my back.
         </p>
         <p className="text-lg text-pink-600 font-semibold">
           and on My special day, i wish you the happiest birthday Preety
