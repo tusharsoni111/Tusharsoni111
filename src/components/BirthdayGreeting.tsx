@@ -117,7 +117,7 @@ const BirthdayGreeting = () => {
               className="bg-white/80 backdrop-blur-sm p-8 rounded-2xl shadow-xl text-center"
             >
               <p className="text-2xl font-semibold text-gray-800">
-                Have a look at it, Preety
+                Have a look at it..
               </p>
             </motion.div>
           )}
